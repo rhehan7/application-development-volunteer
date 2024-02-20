@@ -8,3 +8,4 @@ Please use the following format:
 
 The following is a list of Volunters accepted:  
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
